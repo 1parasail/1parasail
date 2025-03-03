@@ -1,16 +1,18 @@
 ## Hi there 👋
+Currently styuding and planning to be web-developer
 
-<!--
-**1parasail/1parasail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📙 Languages and Tools
 
-Here are some ideas to get you started:
+<p>
+  <img alt="java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" />
+  <img alt="c++" src="https://img.shields.io/badge/C++-violet"/>
+  <img alt="Javascript" src="https://img.shields.io/badge/-javascript-f7df1c?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff" />
+  <img alt="SQL" src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 My stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1parasail&layout=donut-vertical)](https://github.com/gaponjk/github-readme-stats)
+
