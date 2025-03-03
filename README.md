@@ -1,5 +1,5 @@
 ## Hi there 👋
-Currently styuding and planning to be web-developer
+Currently styuding and plannig to be full-stack or back end developer
 
 ### 📙 Languages and Tools
 
