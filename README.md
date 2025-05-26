@@ -1,5 +1,5 @@
 ## Hi there 👋
-Currently styuding
+Currently styuding. All my contact links are in bio(!)
 
 ### 📙 Languages and Tools
 
