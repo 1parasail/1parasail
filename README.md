@@ -5,7 +5,7 @@ Currently styuding. All my contact links are in bio(!)
 
 <p>
   <img alt="java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" />
-  <img alt="c++" src="https://img.shields.io/badge/C++-violet&logo=c++&logoColor=white"/>
+  <img alt="c++" src="https://img.shields.io/badge/-C++-violett?logo=cplusplus"/>
   <img alt="Javascript" src="https://img.shields.io/badge/-javascript-f7df1c?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff" />
