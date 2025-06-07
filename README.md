@@ -12,6 +12,9 @@ Currently styuding. All my contact links are in bio(!)
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
+<p align="left">
+  ![Codewars](https://github.r2v.ch/codewars?user=parasaill&stroke=COLOR)
+</p>
 ### 📈 My stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1parasail&layout=donut-vertical)](https://github.com/gaponjk/github-readme-stats)
 
