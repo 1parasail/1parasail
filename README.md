@@ -14,7 +14,7 @@ Currently styuding. All my contact links are in bio
 
 
 ### 📈 My stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viarbitski&layout=donut-vertical)](https://github.com/viarbitski/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1parasail&layout=donut-vertical)](https://github.com/1parasail/github-readme-stats)
 
 
 ![Codewars](https://github.r2v.ch/codewars?user=parasaill&stroke=COLOR) ![LeetCode Stats](https://leetcard.jacoblin.cool/1parasail?theme=light&font=Red%20Hat%20Text)
